@@ -13,6 +13,10 @@ Welcome to the Finance SaaS Platform project! This comprehensive README will gui
 5. [Usage](#usage)
 6. [Contributing](#contributing)
 7. [License](#license)
+8. [Screenshots/Demo](#screenshotsdemo)
+9. [Prerequisites](#prerequisites)
+10. [Folder Structure](#folder-structure)
+11. [Acknowledgments](#acknowledgments)
 
 ## Introduction
 In this project, you will learn how to create a Finance SaaS Platform capable of tracking income and expenses, categorizing transactions, and importing data from CSV files. The platform connects to bank accounts using Plaid and includes features for monetization through Lemon Squeezy. The tutorial for this project spans 11 hours and provides detailed guidance on building and deploying the application.
