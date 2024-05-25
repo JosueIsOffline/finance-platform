@@ -3,7 +3,6 @@ import { NextResponse } from "next/server";
 
 const isProtectedRoute = createRouteMatcher([
   '/',
-  '/forum(.*)',
 ]);
 
 export default clerkMiddleware((auth, request) => {
