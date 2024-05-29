@@ -3,7 +3,7 @@
 import {
   ColumnDef,
   ColumnFiltersState,
-  Row
+  Row,
   flexRender,
   getCoreRowModel,
   useReactTable,
