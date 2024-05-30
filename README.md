@@ -57,7 +57,21 @@ Welcome to the Finance SaaS Platform project! This comprehensive README will gui
 ## Project Setup
 Follow these steps to set up the project locally:
 
-1. **Clone the repository**:
+**Clone the repository**:
    ```bash
    git clone https://github.com/JosueIsOffline/finance-saas-platform.git
    cd finance-saas-platform
+
+## Getting Started
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+
+```
