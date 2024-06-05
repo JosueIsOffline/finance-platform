@@ -15,6 +15,13 @@
       "when": 1716670794981,
       "tag": "0001_familiar_paibok",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1717515800125,
+      "tag": "0002_milky_onslaught",
+      "breakpoints": true
     }
   ]
 }
