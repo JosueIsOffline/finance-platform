@@ -22,6 +22,13 @@
       "when": 1717515800125,
       "tag": "0002_milky_onslaught",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1717800929015,
+      "tag": "0003_romantic_vulture",
+      "breakpoints": true
     }
   ]
 }
